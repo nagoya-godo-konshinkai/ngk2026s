@@ -19,7 +19,7 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 
 
 # 開催日時・場所
-日時: 2026年1月18日(土)
+日時: 2026年1月18日（土）
 
 * 18:30 開始
 
@@ -163,7 +163,7 @@ connpassイベントページの上部に記載されている「参加者への
 <td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/jaguer_chubu_logo.png"/><br/><a href="https://jaguer.jp/chubu_lp/">Jagu'e'r 中部分科会</a></td>
 </tr>
 <tr>
-<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/matsuriba-tech.png"/><br/><a href="https://www.nxtend.or.jp/">Matsuriba Tech(NxTEND)</a></td>
+<td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/matsuriba-tech.png"/><br/><a href="https://www.nxtend.or.jp/">Matsuriba Tech（NxTEND)</a></td>
 <td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/shachi_py.png"/><br/><a href="https://shachi-py.connpass.com/">鯱.py</a></td>
 <td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/JBUG_logo.png"/><br/><a href="https://jbuginfo.backlog.com/">JBUG名古屋</a></td>
 <td style="padding: 9px; text-align:center;"><img width="150" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/owasp-nagoya.png"/><br/><a href="https://owasp.org/www-chapter-nagoya/">OWASP Nagoya</a></td>

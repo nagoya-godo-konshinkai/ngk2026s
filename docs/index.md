@@ -15,5 +15,5 @@ title: NGK2026S documents
 * [コミュニティ参加募集要項](/community-prospectus.html)
 
 ### connpass イベントページ
-* [NGK2026S 昼の部 LT大会](https://ngk.connpass.com/event/334796/)
-* [NGK2026S 夜の部 懇親会](https://ngk.connpass.com/event/334809/)
+* [NGK2026S 昼の部 LT大会]()
+* [NGK2026S 夜の部 懇親会]()
