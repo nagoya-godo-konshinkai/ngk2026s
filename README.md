@@ -11,8 +11,8 @@ $ tree
 ├── connpass_content_evening_session.md
 ├── docs
 │   ├── _config.yml
-│   ├── anti-harassment-policy.md
-│   ├── community-prospectus.md
+│   ├── anti_harassment_policy.md
+│   ├── community_prospectus.md
 │   ├── img
 │   │   ├── community
 │   │   │   └── empty.png
@@ -20,7 +20,7 @@ $ tree
 │   │       └── empty.png
 │   ├── index.md
 │   ├── lt_regulation.md
-│   ├── sponsors-prospectus.md
+│   ├── sponsors_prospectus.md
 │   └── video
 └── original
     ├── README.md
