@@ -231,13 +231,18 @@ NGK2026Sでは支援していただけるパトロンを募集しています。
 <td align="center" style="padding: 12px;"><br/>終了</td>
 </tr>
 <tr>
-<td align="center" style="padding: 12px;"><br/>昼の部オープニング</td>
+<td align="center" style="padding: 12px;"><br/>昼の部受付</td>
 <td align="center" style="padding: 12px;"><br/>12:00</td>
-<td align="center" style="padding: 12px;"><br/>12:15</td>
+<td align="center" style="padding: 12px;"><br/>12:30</td>
+</tr>
+<tr>
+<td align="center" style="padding: 12px;"><br/>昼の部オープニング</td>
+<td align="center" style="padding: 12px;"><br/>12:30</td>
+<td align="center" style="padding: 12px;"><br/>12:45</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>昼の部本会</td>
-<td align="center" style="padding: 12px;"><br/>12:15</td>
+<td align="center" style="padding: 12px;"><br/>12:45</td>
 <td align="center" style="padding: 12px;"><br/>18:00</td>
 </tr>
 <tr>

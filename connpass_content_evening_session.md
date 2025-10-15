@@ -20,14 +20,13 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 
 昼の部のLT大会とあわせて、お気軽にご参加ください。
 
-## 昼の部：LT大会について
-詳細は昼の部connpassページをご覧ください：[NGK2026S 昼の部 LT大会](https://ngk.connpass.com/event/334796/)
-
-
 # 📅 開催日時・場所
 - **日時**：2026年1月24日（土）18:00-21:00
 - **会場**：[エイチーム様 本社セミナースペース](https://maps.app.goo.gl/dix1S51bGZK44tvx8)
 - **参加費**：社会人4,000円（学生1,000円）
+
+### 昼の部：LT大会について
+詳細は昼の部connpassページをご覧ください：[NGK2026S 昼の部 LT大会](https://ngk.connpass.com/event/334796/)
 
 
 ### 会場へのアクセス方法 & 会場での諸注意
@@ -91,12 +90,12 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>設営（参加任意）</td>
-<td align="center" style="padding: 12px;"><br/>17:40</td>
 <td align="center" style="padding: 12px;"><br/>18:00</td>
+<td align="center" style="padding: 12px;"><br/>18:30</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>懇親会</td>
-<td align="center" style="padding: 12px;"><br/>18:00</td>
+<td align="center" style="padding: 12px;"><br/>18:30</td>
 <td align="center" style="padding: 12px;"><br/>20:30</td>
 </tr>
 <tr>
@@ -106,7 +105,7 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 </tr>
 </table>
 
-# 🏆️企業スポンサー・パトロン（申し込み順）
+# 🏆️ 企業スポンサー・パトロン（申し込み順）
 ## 会場提供スポンサー
 <table>
 <tr>
@@ -114,21 +113,7 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 </tr>
 </table>
 
-## ゴールドスポンサー
-
-<table>
-<tr>
-<td style="padding: 12px; text-align:center;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/smarthr.png"/><br/><a href="https://smarthr.co.jp/">株式会社SmartHR</a></td>
-<td style="padding: 12px; text-align:center;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/leaner.png"/><br/><a href="https://leaner.co.jp/">株式会社Leaner Technologies</a></td>
-<td style="padding: 12px; text-align:center;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/sakura-internet.png"/><br/><a href="https://www.sakura.ad.jp/">さくらインターネット株式会社</a></td>
-</tr>
-<tr>
-<td style="padding: 12px; text-align:center;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/kci.png"/><br/><a href="https://www.kurusugawa.jp/">有限会社来栖川電算</a></td>
-</tr>
-</table>
-
-
-## シルバースポンサー
+## GOLDスポンサー
 <table>
 <tr>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
@@ -142,11 +127,33 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 </tr>
 </table>
 
-# パトロン（申し込み順）
+## SILVERスポンサー
+<table>
+<tr>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+</tr>
+<tr>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+</tr>
+</table>
 
-準備中
-
-
+## パトロン
+<table>
+<tr>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+</tr>
+<tr>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+</tr>
+</table>
 
 # 🧑‍🤝‍🧑 コミュニティ参加（申し込み順）
 <table>
@@ -164,7 +171,6 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 </tr>
 </table>
 
-
 # 🔔 その他
 
 ## アンチハラスメントポリシー
@@ -172,6 +178,7 @@ https://nagoya-godo-konshinkai.github.io/ngk2026s/anti_harassment_policy.html
 
 ## 過去のイベント実績
 * [2025開催](https://ngk.connpass.com/event/334796/)
+* [2024開催](https://ngk.connpass.com/event/294313/)
 * [2023開催](https://ngk.connpass.com/event/265837/)
 * [2022開催](https://ngk.connpass.com/event/233520/)
 * [2021開催](https://ngk2021s.netlify.app/)
@@ -183,7 +190,6 @@ https://nagoya-godo-konshinkai.github.io/ngk2026s/anti_harassment_policy.html
 * [2014開催](https://ngk2014b.connpass.com/)
 * [2013開催](https://connpass.com/event/3771/)
 * [2012開催](https://connpass.com/event/1036/)
-
 
 ## スタッフ
 ※abc順
