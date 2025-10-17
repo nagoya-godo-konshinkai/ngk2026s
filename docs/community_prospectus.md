@@ -34,6 +34,7 @@ NGK2026Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 
 1. [コミュニティ参加申込フォーム](https://forms.gle/4jYZwSExjAsD1TAi8)へお申し込み後
 2. [LT発表申込フォーム](https://docs.google.com/forms/d/e/1FAIpQLSe9M3n407OzX8jFZSe5R2qG7YLqrJotfM9CTGSNkxtUcUO4pA/viewform?usp=pp_url&entry.871443715=%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3LT&entry.1991551372=--)へお申し込みください。
+    - LT発表申込には、コミュニティ参加申込フォーム申し込み後に自動返信される「受付番号」が必要です。
 
 なお、コミュニティLTは一般LTと同じ[LTレギュレーション](https://nagoya-godo-konshinkai.github.io/ngk2026s/lt_regulation.html)に従います。
 
