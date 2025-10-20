@@ -25,7 +25,7 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 
 # 📅 開催日時・場所
 - **日時**：2026年1月24日（土）12:00-21:00（時間は多少前後する可能性があります）
-- **会場**：[エイチーム様 本社セミナースペース （大名古屋ビルヂング 32F）](https://www.a-tm.co.jp/about/outline/#:~:text=%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BC%E3%83%A0%E6%9C%AC%E7%A4%BE)
+- **会場**：[株式会社エイチーム 本社セミナースペース （大名古屋ビルヂング 32F）](https://www.a-tm.co.jp/about/outline/#:~:text=%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BC%E3%83%A0%E6%9C%AC%E7%A4%BE)
     - https://maps.app.goo.gl/dix1S51bGZK44tvx8
 - **参加費**：昼の部 無料 / 夜の部 社会人4,000円（学生1,000円）程度を予定
 
@@ -93,6 +93,11 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 <td align="center" style="padding: 12px;"><br/>パトロン</td>
 <td align="center" style="padding: 12px;"><br/>募集中</td>
 <td align="center" style="padding: 12px;"><br/>2025/11/14</td>
+</tr>
+<tr>
+<td align="center" style="padding: 12px;"><br/>懇親会</td>
+<td align="center" style="padding: 12px;"><br/>準備中</td>
+<td align="center" style="padding: 12px;"><br/>--</td>
 </tr>
 </table>
 
