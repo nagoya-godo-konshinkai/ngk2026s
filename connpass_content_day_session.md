@@ -287,6 +287,7 @@ https://nagoya-godo-konshinkai.github.io/ngk2026s/anti_harassment_policy.html
 * [ex_SOUL](https://connpass.com/user/ex_SOUL/open/)
 * [h_hiro_](https://connpass.com/user/h_hiro_/open/)
 * [katzueno](https://connpass.com/user/katzueno/open/)
+* [unarist](https://connpass.com/user/unarist/open/)
 * [usakotail](https://connpass.com/user/usakotail/open/)
 * [youhei_yamaguchi](https://connpass.com/user/youhei_yamaguchi/open/)
 
