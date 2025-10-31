@@ -87,8 +87,8 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>企業スポンサー/Gold</td>
-<td align="center" style="padding: 12px;"><br/>募集中</td>
-<td align="center" style="padding: 12px;"><br/>2025/11/14</td>
+<td align="center" style="padding: 12px;"><br/>申込多数のため<br/>締め切りました</td>
+<td align="center" style="padding: 12px;"><br/><del/>2025/11/14</del></td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>企業スポンサー/Silver</td>
@@ -178,14 +178,14 @@ NGK2026Sでは支援していただけるパトロンを募集しています。
 ## GOLDスポンサー
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://smarthr.co.jp/company/">株式会社SmartHR</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/leaner.png"/><br/><a href="https://leaner.co.jp/">株式会社Leaner Technologies</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://classmethod.jp/">クラスメソッド株式会社</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/kci.png"/><br/><a href="https://www.kurusugawa.jp/">有限会社来栖川電算</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/kxc.png"/><br/><a href="https://kxc.inc">合同会社コトイコンサルタンシー</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/ctc.png"/><br/><a href="https://www.ctc-g.co.jp/">伊藤忠テクノソリューションズ株式会社</a></td>
 </tr>
 </table>
 
@@ -206,11 +206,13 @@ NGK2026Sでは支援していただけるパトロンを募集しています。
 ## パトロン
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/ovis.png"/><br/><a href="https://connpass.com/user/Ovis/">Ovis</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/skoba.png"/><br/><a href="https://connpass.com/user/skoba/">Shinji KOBAYASHI</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/masaru_kachi.png"/><br/><a href="https://connpass.com/user/MasaruKachi/">KACHI</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/squld.png"/><br/><a href="https://connpass.com/user/squld/">squld</a></td>
 </tr>
 <tr>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
@@ -220,15 +222,15 @@ NGK2026Sでは支援していただけるパトロンを募集しています。
 # 🧑‍🤝‍🧑 コミュニティ参加（申し込み順）
 <table>
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://toukai-meddx.connpass.com/">東海医療DX研究会</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://piyopiyoex.connpass.com/">piyopiyo.ex</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>フロントエンドカンファレンス<br/>名古屋2026</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/shachi_py.png"/><br/><a href="https://machine-learning.connpass.com/">機械学習名古屋研究会</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://gengen.connpass.com">生成原論</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://jbuginfo.backlog.com/">JBUG名古屋</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/shachi_py.png"/><br/><a href="https://shachi-py.connpass.com/">鯱.py</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
 </tr>
 </table>
