@@ -28,7 +28,7 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 
 # 📅 開催日時・場所
 - **日時**：2026年1月24日（土）12:00-21:00（時間は多少前後する可能性があります）
-- **会場**：[株式会社エイチーム 本社セミナースペース （大名古屋ビルヂング 32F）](https://www.a-tm.co.jp/about/outline/#:~:text=%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BC%E3%83%A0%E6%9C%AC%E7%A4%BE)
+- **会場**：[株式会社エイチームホールディングス 本社セミナースペース （大名古屋ビルヂング 32F）](https://www.a-tm.co.jp/about/outline/#:~:text=%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BC%E3%83%A0%E6%9C%AC%E7%A4%BE)
     - https://maps.app.goo.gl/dix1S51bGZK44tvx8
 - **参加費**：
     - 昼の部: 無料
@@ -171,7 +171,7 @@ NGK2026Sでは支援していただけるパトロンを募集しています。
 ## 会場提供スポンサー
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/ateam.png"/><br/><a href="https://www.a-tm.co.jp/">株式会社エイチーム</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/ateam.png"/><br/><a href="https://www.a-tm.co.jp/">株式会社エイチームホールディングス</a></td>
 </tr>
 </table>
 
@@ -225,12 +225,24 @@ NGK2026Sでは支援していただけるパトロンを募集しています。
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://toukai-meddx.connpass.com/">東海医療DX研究会</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://piyopiyoex.connpass.com/">piyopiyo.ex</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>フロントエンドカンファレンス<br/>名古屋2026</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/shachi_py.png"/><br/><a href="https://machine-learning.connpass.com/">機械学習名古屋研究会</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/ml-nagoya.png"/><br/><a href="https://machine-learning.connpass.com/">機械学習名古屋研究会</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://gengen.connpass.com">生成原論</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/gengenlogougorec.png"/><br/><a href="https://gengen.connpass.com">生成原論</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://jbuginfo.backlog.com/">JBUG名古屋</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/shachi_py.png"/><br/><a href="https://shachi-py.connpass.com/">鯱.py</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/julia-tokai.png"/><br/><a href="https://juliatokai.connpass.com/">JuliaTokai</a></td>
+</tr>
+<tr>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/dela_nagoya.png"/><br/><a href="https://delanagoya.connpass.com/">デラなごや.dev</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://nfug.connpass.com/">Nagoya Frontend<br/>User Group</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+</tr>
+<tr>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
 </tr>
 </table>
