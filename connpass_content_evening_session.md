@@ -63,9 +63,25 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 
 # 🍻 懇親会について
 
+今回はNGK向け特別メニューをご用意いただけることになりました。お楽しみに！
+
+
+
 ## メニュー・飲み放題ドリンク
 
-詳細なメニューは現在準備中です。決まり次第こちらに掲載いたします。
+<table>
+<tr>
+<td align="center" style="padding: 12px;"><img width="300px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/特別プラン.pdf"/><br/>ビュッフェメニュー</td>
+<td align="center" style="padding: 12px;"><img width="300px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/飲み放題メニュー.pdf"/><br/>ドリンクメニュー</td>
+</tr>
+</table>
+
+## 前回（NGK2025S）開催時の様子
+
+<img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/evening_image_3.jpg"/>
+<img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/evening_image_1.jpg"/>
+<img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/evening_image_2.jpg"/>
+
 
 ## 注意事項
 設営・撤収作業の時間が非常に短いため、設営・撤収のお手伝いをお願いする可能性があります。（参加必須ではありません）
@@ -164,13 +180,13 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/gengenlogougorec.png"/><br/><a href="https://gengen.connpass.com">生成原論</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://jbuginfo.backlog.com/">JBUG名古屋</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/shachi_py.png"/><br/><a href="https://shachi-py.connpass.com/">鯱.py</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/julia-tokai.png"/><br/><a href="https://juliatokai.connpass.com/">JuliaTokai</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/julia-tokai.jpg"/><br/><a href="https://juliatokai.connpass.com/">JuliaTokai</a></td>
 </tr>
 <tr>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/dela_nagoya.png"/><br/><a href="https://delanagoya.connpass.com/">デラなごや.dev</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://nfug.connpass.com/">Nagoya Frontend<br/>User Group</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/nagoya_frontend_user_group.png"/><br/><a href="https://nfug.connpass.com/">Nagoya Frontend<br/>User Group</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/nagara_rb.png"/><br/><a href="https://nagara-rb.connpass.com/">nagara.rb</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://jawsug-nagoya.connpass.com/">JAWS UG名古屋</a></td>
 </tr>
 <tr>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
@@ -179,7 +195,6 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
 </tr>
 </table>
-
 # 🔔 その他
 
 ## アンチハラスメントポリシー
