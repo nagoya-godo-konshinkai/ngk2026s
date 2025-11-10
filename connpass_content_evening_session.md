@@ -71,8 +71,8 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="300px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/特別プラン.pdf"/><br/>ビュッフェメニュー</td>
-<td align="center" style="padding: 12px;"><img width="300px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/飲み放題メニュー.pdf"/><br/>ドリンクメニュー</td>
+<td align="center" style="padding: 12px;"><img width="300px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/menu.png"/><br/>ビュッフェメニュー</td>
+<td align="center" style="padding: 12px;"><img width="300px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/drink.png"/><br/>ドリンクメニュー</td>
 </tr>
 </table>
 
