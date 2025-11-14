@@ -92,13 +92,13 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>企業スポンサー/Silver</td>
-<td align="center" style="padding: 12px;"><br/>募集中</td>
-<td align="center" style="padding: 12px;"><br/>2025/11/14</td>
+<td align="center" style="padding: 12px;"><br/>募集中<br/>延長しました！</td>
+<td align="center" style="padding: 12px;"><br/>2025/11/28</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>パトロン</td>
-<td align="center" style="padding: 12px;"><br/>募集中</td>
-<td align="center" style="padding: 12px;"><br/>2025/11/14</td>
+<td align="center" style="padding: 12px;"><br/>募集中<br/>延長しました！</td>
+<td align="center" style="padding: 12px;"><br/>2025/11/28</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>夜の部 懇親会</td>
@@ -136,7 +136,7 @@ NGK2026Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 詳細は[企業スポンサー募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2026s/sponsors_prospectus.html)をご覧ください。
 
 ### 申し込み期限
-**2025/11/14（金）22:00**
+**2025/11/28（金）22:00**
 
 申し込み多数の場合は、申込み期限前でもお断りする可能性があります。ご了承ください。
 
@@ -163,7 +163,7 @@ NGK2026Sでは支援していただけるパトロンを募集しています。
 詳細は[パトロン募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2026s/patron_prospectus.html)をご覧ください。
 
 ### 申し込み期限
-**2026/11/14（金）22:00**
+**2026/11/28（金）22:00**
 
 申し込み多数の場合は、申し込み期限前でも募集終了する可能性があります。あらかじめご了承ください。
 
@@ -180,7 +180,7 @@ NGK2026Sでは支援していただけるパトロンを募集しています。
 <tr>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/smarthr.png"/><br/><a href="https://smarthr.co.jp/">株式会社SmartHR</a></td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/leaner.png"/><br/><a href="https://leaner.co.jp/">株式会社Leaner Technologies</a></td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://classmethod.jp/">クラスメソッド株式会社</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/classmethod.png"/><br/><a href="https://classmethod.jp/">クラスメソッド株式会社</a></td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/kci.png"/><br/><a href="https://www.kurusugawa.jp/">有限会社来栖川電算</a></td>
@@ -238,6 +238,12 @@ NGK2026Sでは支援していただけるパトロンを募集しています。
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/nagoya_frontend_user_group.png"/><br/><a href="https://nfug.connpass.com/">Nagoya Frontend<br/>User Group</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/nagara_rb.png"/><br/><a href="https://nagara-rb.connpass.com/">nagara.rb</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://jawsug-nagoya.connpass.com/">JAWS UG名古屋</a></td>
+</tr>
+<tr>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://ore-no-benkyoukai.connpass.com/">俺の勉強会</a></td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
 </tr>
 <tr>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
