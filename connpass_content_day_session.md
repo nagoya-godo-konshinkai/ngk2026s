@@ -148,6 +148,56 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 			<td>CoderDojo</td>
 			<td>娘がアジア代表になって世界大会に出た話</td>
 		</tr>
+		<tr>
+			<td>若生大輔</td>
+			<td>&nbsp;</td>
+			<td>コーディングエージェントを極力自律的かつ長時間、人間の介入なしに動かして、無料塾の出欠管理システムを作ってみた</td>
+		</tr>
+		<tr>
+			<td>和夏🔰</td>
+			<td>&nbsp;</td>
+			<td>スーパーカブ110はいいぞ</td>
+		</tr>
+		<tr>
+			<td>misoji_engineer🔰</td>
+			<td>&nbsp;</td>
+			<td>Zephyr RTOSに関する発表をOpen Source Summit Japan 2025で行った件</td>
+		</tr>
+		<tr>
+			<td>girigiribauer</td>
+			<td>&nbsp;</td>
+			<td>移動は善</td>
+		</tr>
+		<tr>
+			<td>2bo</td>
+			<td>&nbsp;</td>
+			<td>おっきなガジェットの回線事情</td>
+		</tr>
+		<tr>
+			<td>Daichi🔰</td>
+			<td>&nbsp;</td>
+			<td>AIは合成関数、そして魂はWeightsに宿る！</td>
+		</tr>
+		<tr>
+			<td>橋本雅彦🔰</td>
+			<td>オープンソースカンファレンス Nagoya</td>
+			<td>オープンソースカンファレンスNagoyaへのご案内</td>
+		</tr>
+		<tr>
+			<td>みらる🔰</td>
+			<td>&nbsp;</td>
+			<td>FigmaでできてCSSでできないことを調べてみた！</td>
+		</tr>
+		<tr>
+			<td>土田哲哉🔰</td>
+			<td>トウカイリサーチ</td>
+			<td>トウカイリサーチに入ってみて</td>
+		</tr>
+		<tr>
+			<td>KMiura</td>
+			<td>クラウドネイティブ会議</td>
+			<td>JAWS UG名古屋2025年のアップデート・クラウドネイティブ会議が始まるよ</td>
+		</tr>
 	</tbody>
 </table>
 
