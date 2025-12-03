@@ -1,6 +1,3 @@
-# 📢LT発表募集中！下記Googleフォームよりお申し込みください📢 
-# ⚠️LT発表希望者も connpass 「オフライン参加枠」 にお申し込みください⚠️
-
 # 📋 目次
 - イベント概要
 - 開催日時・場所
@@ -167,12 +164,12 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>一般LT発表</td>
-<td align="center" style="padding: 12px;"><br/>募集中</td>
+<td align="center" style="padding: 12px;"><br/>締め切りました</td>
 <td align="center" style="padding: 12px;"><br/>2026/11/28</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>コミュニティ参加</td>
-<td align="center" style="padding: 12px;"><br/>募集中</td>
+<td align="center" style="padding: 12px;"><br/>締め切りました</td>
 <td align="center" style="padding: 12px;"><br/>2025/11/28</td>
 </tr>
 <tr>
@@ -187,12 +184,12 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>企業スポンサー/Silver</td>
-<td align="center" style="padding: 12px;"><br/>募集中<br/>延長しました！</td>
+<td align="center" style="padding: 12px;"><br/>締め切りました</td>
 <td align="center" style="padding: 12px;"><br/>2025/11/28</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>パトロン</td>
-<td align="center" style="padding: 12px;"><br/>募集中<br/>延長しました！</td>
+<td align="center" style="padding: 12px;"><br/>締め切りました</td>
 <td align="center" style="padding: 12px;"><br/>2025/11/28</td>
 </tr>
 <tr>
