@@ -119,11 +119,6 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 			<td>nagara.rb の紹介</td>
 		</tr>
 		<tr>
-			<td>KMiura</td>
-			<td>JAWS UG名古屋</td>
-			<td>JAWS UG名古屋2025年のアップデート</td>
-		</tr>
-		<tr>
 			<td>moco🔰</td>
 			<td>&nbsp;</td>
 			<td>デザイナーとエンジニアのコミュニケーションあるある</td>
@@ -195,7 +190,7 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 		</tr>
 		<tr>
 			<td>KMiura</td>
-			<td>クラウドネイティブ会議</td>
+			<td>JAWS UG名古屋 & クラウドネイティブ会議</td>
 			<td>JAWS UG名古屋2025年のアップデート・クラウドネイティブ会議が始まるよ</td>
 		</tr>
 	</tbody>
@@ -230,7 +225,7 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 <tr>
 <td align="center" style="padding: 12px;"><br/>企業スポンサー/Gold</td>
 <td align="center" style="padding: 12px;"><br/>申込多数のため<br/>締め切りました</td>
-<td align="center" style="padding: 12px;"><br/><del/>2025/11/14</del></td>
+<td align="center" style="padding: 12px;"><br/><del>2025/11/14</del></td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>企業スポンサー/Silver</td>
@@ -335,8 +330,7 @@ NGK2026Sでは支援していただけるパトロンを募集しています。
 <table>
 <tr>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/ospn.png"/><br/><a href="https://ospn.jp/">Open Source People Network (OSPN)</a></td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://stadium.fan/">株式会社スタジアム</a></td>
 </tr>
 </table>
 
@@ -386,7 +380,7 @@ NGK2026Sでは支援していただけるパトロンを募集しています。
 <td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/nagoyavim.png"/><br/><a href="https://nagoyavim.connpass.com/">Nagoya.vim</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://www.raspi.jp/">Japanese Raspberry Pi Users Group</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/raspberrypi.png"/><br/><a href="https://www.raspi.jp/">Japanese Raspberry Pi Users Group</a></td>
 <td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>クラウドネイティブ会議</td>
 <td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://tokai-research.connpass.com/">トウカイリサーチ</a></td>
 </tr>
