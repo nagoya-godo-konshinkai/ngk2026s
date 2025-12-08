@@ -182,7 +182,7 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 <td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/jawsug-nagoya.png"/><br/><a href="https://jawsug-nagoya.connpass.com/">JAWS UG名古屋</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://ore-no-benkyoukai.connpass.com/">俺の勉強会</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/ore-no-benkyoukai_512.png"/><br/><a href="https://ore-no-benkyoukai.connpass.com/">俺の勉強会</a></td>
 <td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/oscnagoya.png"/><br/><a href="https://www.ospn.jp/">オープンソースカンファレンス<br/>Nagoya</a></td>
 <td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/scug.jpg"/><br/><a href="https://techplay.jp/community/snowvillage-central">Snowflake中部ユーザー会</a></td>
 </tr>
@@ -193,7 +193,7 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 </tr>
 <tr>
 <td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/raspberrypi.png"/><br/><a href="https://www.raspi.jp/">Japanese Raspberry Pi Users Group</a></td>
-<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>クラウドネイティブ会議</td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/cloudnative-kaigi_512.png"/><br/>クラウドネイティブ会議</td>
 <td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://tokai-research.connpass.com/">トウカイリサーチ</a></td>
 </tr>
 </table>
