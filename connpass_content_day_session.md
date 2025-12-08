@@ -1,6 +1,3 @@
-# 📢LT発表募集中！下記Googleフォームよりお申し込みください📢 
-# ⚠️LT発表希望者も connpass 「オフライン参加枠」 にお申し込みください⚠️
-
 # 📋 目次
 - イベント概要
 - 開催日時・場所
@@ -122,11 +119,6 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 			<td>nagara.rb の紹介</td>
 		</tr>
 		<tr>
-			<td>KMiura</td>
-			<td>JAWS UG名古屋</td>
-			<td>JAWS UG名古屋2025年のアップデート</td>
-		</tr>
-		<tr>
 			<td>moco🔰</td>
 			<td>&nbsp;</td>
 			<td>デザイナーとエンジニアのコミュニケーションあるある</td>
@@ -151,6 +143,56 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 			<td>CoderDojo</td>
 			<td>娘がアジア代表になって世界大会に出た話</td>
 		</tr>
+		<tr>
+			<td>若生大輔</td>
+			<td>&nbsp;</td>
+			<td>コーディングエージェントを極力自律的かつ長時間、人間の介入なしに動かして、無料塾の出欠管理システムを作ってみた</td>
+		</tr>
+		<tr>
+			<td>和夏🔰</td>
+			<td>&nbsp;</td>
+			<td>スーパーカブ110はいいぞ</td>
+		</tr>
+		<tr>
+			<td>misoji_engineer🔰</td>
+			<td>&nbsp;</td>
+			<td>Zephyr RTOSに関する発表をOpen Source Summit Japan 2025で行った件</td>
+		</tr>
+		<tr>
+			<td>girigiribauer</td>
+			<td>&nbsp;</td>
+			<td>移動は善</td>
+		</tr>
+		<tr>
+			<td>2bo</td>
+			<td>&nbsp;</td>
+			<td>おっきなガジェットの回線事情</td>
+		</tr>
+		<tr>
+			<td>Daichi🔰</td>
+			<td>&nbsp;</td>
+			<td>AIは合成関数、そして魂はWeightsに宿る！</td>
+		</tr>
+		<tr>
+			<td>橋本雅彦🔰</td>
+			<td>オープンソースカンファレンス Nagoya</td>
+			<td>オープンソースカンファレンスNagoyaへのご案内</td>
+		</tr>
+		<tr>
+			<td>みらる🔰</td>
+			<td>&nbsp;</td>
+			<td>FigmaでできてCSSでできないことを調べてみた！</td>
+		</tr>
+		<tr>
+			<td>土田哲哉🔰</td>
+			<td>トウカイリサーチ</td>
+			<td>トウカイリサーチに入ってみて</td>
+		</tr>
+		<tr>
+			<td>KMiura</td>
+			<td>JAWS UG名古屋 & クラウドネイティブ会議</td>
+			<td>JAWS UG名古屋2025年のアップデート・クラウドネイティブ会議が始まるよ</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -167,12 +209,12 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>一般LT発表</td>
-<td align="center" style="padding: 12px;"><br/>募集中</td>
+<td align="center" style="padding: 12px;"><br/>締め切りました</td>
 <td align="center" style="padding: 12px;"><br/>2026/11/28</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>コミュニティ参加</td>
-<td align="center" style="padding: 12px;"><br/>募集中</td>
+<td align="center" style="padding: 12px;"><br/>締め切りました</td>
 <td align="center" style="padding: 12px;"><br/>2025/11/28</td>
 </tr>
 <tr>
@@ -183,16 +225,16 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 <tr>
 <td align="center" style="padding: 12px;"><br/>企業スポンサー/Gold</td>
 <td align="center" style="padding: 12px;"><br/>申込多数のため<br/>締め切りました</td>
-<td align="center" style="padding: 12px;"><br/><del/>2025/11/14</del></td>
+<td align="center" style="padding: 12px;"><br/><del>2025/11/14</del></td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>企業スポンサー/Silver</td>
-<td align="center" style="padding: 12px;"><br/>募集中<br/>延長しました！</td>
+<td align="center" style="padding: 12px;"><br/>締め切りました</td>
 <td align="center" style="padding: 12px;"><br/>2025/11/28</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>パトロン</td>
-<td align="center" style="padding: 12px;"><br/>募集中<br/>延長しました！</td>
+<td align="center" style="padding: 12px;"><br/>締め切りました</td>
 <td align="center" style="padding: 12px;"><br/>2025/11/28</td>
 </tr>
 <tr>
@@ -288,13 +330,7 @@ NGK2026Sでは支援していただけるパトロンを募集しています。
 <table>
 <tr>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/ospn.png"/><br/><a href="https://ospn.jp/">Open Source People Network (OSPN)</a></td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-</tr>
-<tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://stadium.fan/">株式会社スタジアム</a></td>
 </tr>
 </table>
 
@@ -304,50 +340,51 @@ NGK2026Sでは支援していただけるパトロンを募集しています。
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/ovis.png"/><br/><a href="https://connpass.com/user/Ovis/">Ovis</a></td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/skoba.png"/><br/><a href="https://connpass.com/user/skoba/">Shinji KOBAYASHI</a></td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/masaru_kachi.png"/><br/><a href="https://connpass.com/user/MasaruKachi/">KACHI</a></td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/squld.png"/><br/><a href="https://connpass.com/user/squld/">squld</a></td>
 </tr>
 <tr>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/squld.png"/><br/><a href="https://connpass.com/user/squld/">squld</a></td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/tatsuno.png"/><br/><a href="https://connpass.com/user/smogami/">Tatsuno</a></td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
 </tr>
 </table>
 
 # 🧑‍🤝‍🧑 コミュニティ参加（申し込み順）
 <table>
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://toukai-meddx.connpass.com/">東海医療DX研究会</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://piyopiyoex.connpass.com/">piyopiyo.ex</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>フロントエンドカンファレンス<br/>名古屋2026</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/ml-nagoya.png"/><br/><a href="https://machine-learning.connpass.com/">機械学習名古屋研究会</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://toukai-meddx.connpass.com/">東海医療DX研究会</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/piyopiyoex.png"/><br/><a href="https://piyopiyoex.connpass.com/">piyopiyo.ex</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/frontend-conference-nagoya.png"/><br/>フロントエンドカンファレンス<br/>名古屋2026</td>
 </tr>
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/gengenlogougorec.png"/><br/><a href="https://gengen.connpass.com">生成原論</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://jbuginfo.backlog.com/">JBUG名古屋</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/shachi_py.png"/><br/><a href="https://shachi-py.connpass.com/">鯱.py</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/julia-tokai.jpg"/><br/><a href="https://juliatokai.connpass.com/">JuliaTokai</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/ml-nagoya.png"/><br/><a href="https://machine-learning.connpass.com/">機械学習名古屋研究会</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/gengenlogougorec.png"/><br/><a href="https://gengen.connpass.com">生成原論</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://jbuginfo.backlog.com/">JBUG名古屋</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/dela_nagoya.png"/><br/><a href="https://delanagoya.connpass.com/">デラなごや.dev</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/nagoya_frontend_user_group.png"/><br/><a href="https://nfug.connpass.com/">Nagoya Frontend<br/>User Group</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/nagara_rb.png"/><br/><a href="https://nagara-rb.connpass.com/">nagara.rb</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/jawsug-nagoya.png"/><br/><a href="https://jawsug-nagoya.connpass.com/">JAWS UG名古屋</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/shachi_py.png"/><br/><a href="https://shachi-py.connpass.com/">鯱.py</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/julia-tokai.jpg"/><br/><a href="https://juliatokai.connpass.com/">JuliaTokai</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/dela_nagoya.png"/><br/><a href="https://delanagoya.connpass.com/">デラなごや.dev</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://ore-no-benkyoukai.connpass.com/">俺の勉強会</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/oscnagoya.png"/><br/><a href="https://www.ospn.jp/">オープンソースカンファレンス<br/>Nagoya</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/scug.jpg"/><br/><a href="https://techplay.jp/community/snowvillage-central">Snowflake中部ユーザー会</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/tableau.jpg"/><br/><a href="https://techplay.jp/community/tableau-chubu">中部Tableauユーザー会</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/nagoya_frontend_user_group.png"/><br/><a href="https://nfug.connpass.com/">Nagoya Frontend<br/>User Group</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/nagara_rb.png"/><br/><a href="https://nagara-rb.connpass.com/">nagara.rb</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/jawsug-nagoya.png"/><br/><a href="https://jawsug-nagoya.connpass.com/">JAWS UG名古屋</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/coderdojo.png"/><br/><a href="https://coderdojo.jp">CoderDojo</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/ore-no-benkyoukai_512.png"/><br/><a href="https://ore-no-benkyoukai.connpass.com/">俺の勉強会</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/oscnagoya.png"/><br/><a href="https://www.ospn.jp/">オープンソースカンファレンス<br/>Nagoya</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/scug.jpg"/><br/><a href="https://techplay.jp/community/snowvillage-central">Snowflake中部ユーザー会</a></td>
+</tr>
+<tr>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/tableau.jpg"/><br/><a href="https://techplay.jp/community/tableau-chubu">中部Tableauユーザー会</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/coderdojo.png"/><br/><a href="https://coderdojo.jp">CoderDojo</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/nagoyavim.png"/><br/><a href="https://nagoyavim.connpass.com/">Nagoya.vim</a></td>
+</tr>
+<tr>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/raspberrypi.png"/><br/><a href="https://www.raspi.jp/">Japanese Raspberry Pi Users Group</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/cloudnative-kaigi_512.png"/><br/>クラウドネイティブ会議</td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://tokai-research.connpass.com/">トウカイリサーチ</a></td>
 </tr>
 </table>
-
 
 # ⏰️ タイムテーブル（多少前後する可能性があります）
 <table>
