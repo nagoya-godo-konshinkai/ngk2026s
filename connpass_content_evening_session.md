@@ -141,7 +141,7 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 ## SILVERスポンサー
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/ospn.png"/><br/><a href="https://ospn.jp/">Open Source People Network (OSPN)</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/ospn.png"/><br/><a href="https://ospn.jp/">Open Source People Network<br/> (OSPN)</a></td>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/sponsor/stadium.png"/><br/><a href="https://stadium.fan/">株式会社スタジアム</a></td>
 </tr>
 </table>
