@@ -169,7 +169,7 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 <tr>
 <td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/ml-nagoya.png"/><br/><a href="https://machine-learning.connpass.com/">機械学習名古屋研究会</a></td>
 <td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/gengenlogougorec.png"/><br/><a href="https://gengen.connpass.com">生成原論</a></td>
-<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://jbuginfo.backlog.com/">JBUG名古屋</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/jbug-nagoya.png"/><br/><a href="https://jbuginfo.backlog.com/">JBUG名古屋</a></td>
 </tr>
 <tr>
 <td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/shachi_py.png"/><br/><a href="https://shachi-py.connpass.com/">鯱.py</a></td>
