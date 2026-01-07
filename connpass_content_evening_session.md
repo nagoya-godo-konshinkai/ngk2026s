@@ -162,7 +162,7 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 # 🧑‍🤝‍🧑 コミュニティ参加（申し込み順）
 <table>
 <tr>
-<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://toukai-meddx.connpass.com/">東海医療DX研究会</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/toukai_meddx.png"/><br/><a href="https://toukai-meddx.connpass.com/">東海医療DX研究会</a></td>
 <td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/piyopiyoex.png"/><br/><a href="https://piyopiyoex.connpass.com/">piyopiyo.ex</a></td>
 <td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/frontend-conference-nagoya.png"/><br/>フロントエンドカンファレンス<br/>名古屋2026</td>
 </tr>
