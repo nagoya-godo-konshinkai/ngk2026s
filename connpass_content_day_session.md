@@ -2,10 +2,10 @@
 - イベント概要
 - 開催日時・場所
 - 参加方法
-- 各種募集
+- タイムテーブル
 - 企業スポンサー・パトロン
 - コミュニティ参加
-- タイムテーブル
+- 各種募集
 - その他
 
 # 🍤 イベント概要
@@ -24,17 +24,46 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 
 
 # 📅 開催日時・場所
-- **日時**：2026年1月24日（土）12:00-21:00（時間は多少前後する可能性があります）
-- **会場**：[株式会社エイチームホールディングス 本社セミナースペース （大名古屋ビルヂング 32F）](https://www.a-tm.co.jp/about/outline/#:~:text=%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BC%E3%83%A0%E6%9C%AC%E7%A4%BE)
-    - https://maps.app.goo.gl/dix1S51bGZK44tvx8
-- **参加費**：
-    - 昼の部: 無料
-    - 夜の部: 社会人枠/事前決済 4,000円 学生枠/現地決済 1,000円
+
+## 日時
+* 2026年1月24日（土）
+  - 12:00: 受付開始
+  - 12:30-18:00: 昼の部
+  - 18:00-20:00: 夜の部
+  - 21:00: 完全撤収
+
+## 参加費
+ * 昼の部: 無料
+ * 夜の部: 社会人枠/事前決済 4,000円 学生枠/現地決済 1,000円
+
+## 会場
+* [株式会社エイチームホールディングス 本社セミナースペース （大名古屋ビルヂング 32F）](https://www.a-tm.co.jp/about/outline/#:~:text=%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BC%E3%83%A0%E6%9C%AC%E7%A4%BE)
+  - https://maps.app.goo.gl/dix1S51bGZK44tvx8
+
+## 会場へのアクセス
+
+参加申し込み後に展開される「参加者への情報」をご確認ください。
 
 
-### 会場へのアクセス方法 & 会場での諸注意
+## 会場での諸注意
 
-参加申し込み後に展開予定の「参加者への情報」を必ずご確認ください。
+* 必ず株式会社エイチームホールディングス様・スタッフの指示に従ってください。
+* 32F エントランス側から会場セミナースペースへは入室できません。
+* セキュリティエリアへの無断立ち入りは禁止です。
+* 会場フロアからの途中出入りは、鍵開けが必要なためなるべくお控えください。
+* セミナールーム内と廊下の自販機はご利用いただけますが、ゴミは持ち帰りをお願いします。
+* 喫煙はセミナースペース内の指定場所でお願いします。
+* 一般参加者への WiFi のご用意はありません。
+* 一般参加者への電源のご用意はありますが、数に限りがあります。譲り合ってご利用ください。
+
+## 受付方法
+
+ * 受付で[受付票](https://ngk.connpass.com/event/373265/ticket/)に記載されているQRコードをご提示ください。
+ * 身分証（免許証・身分証明・名刺等）の確認を行いますので、忘れずにお持ちください。
+ * 【夜の部参加者向け】受付混雑緩和のため、夜の部の受付は1回目の休憩の時間から開始します。
+ * 【夜の部参加者/学生向け】学生証の確認を行いますので、忘れずにお持ちください。
+
+
 
 
 # 🎫 参加方法
@@ -51,149 +80,306 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
     - **/一般**: 基本はこちらの枠でお申し込みください。
     - **/パトロン**: パトロンとして支援を希望される方はこちらでお申し込みください。詳細は[パトロン募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2026s/patron_prospectus.html)をご覧ください。
 
-- **配信視聴枠**：YouTube Liveでのリアルタイム配信を行います。
+- **配信視聴枠**：[YouTube Live](https://www.youtube.com/watch?v=3VYHyrQYBjI)にてリアルタイム配信を行います。
 
 ### 夜の部：懇親会（18:00-21:00）
 昼の部と同会場にてケータリングを行います。
 詳細は[NGK2026S 夜の部 懇親会](https://connpass.com/event/373524/)をご覧ください。
 
-# 🗣️ LT発表一覧
-
-※申し込み順、発表順は調整中
+# ⏰️ タイムテーブル
+🔰： NGK初登壇
 
 <table>
-	<tbody>
-		<tr>
-			<th>スピーカー</th>
-			<th>スポンサー/コミュニティ</th>
-			<th>タイトル</th>
-		</tr>
-		<tr>
-			<td>小林慎治🔰</td>
-			<td>&nbsp;</td>
-			<td>東海医療DX研究会はじめました</td>
-		</tr>
-		<tr>
-			<td>ゆいな</td>
-			<td>&nbsp;</td>
-			<td>どこかのダム</td>
-		</tr>
-		<tr>
-			<td>Haochen Kotoi-Xie</td>
-			<td>&nbsp;</td>
-			<td>OCaml 5でモダンな並列プログラミングをEnjoyしよう!</td>
-		</tr>
-		<tr>
-			<td>squld</td>
-			<td>&nbsp;</td>
-			<td>Visual Studio Code 拡張 Markdown Copilot を改良した話</td>
-		</tr>
-		<tr>
-			<td>塩谷俊介</td>
-			<td>JBUG名古屋</td>
-			<td>そのプロジェクトうまく回ってる？JBUG名古屋活動報告</td>
-		</tr>
-		<tr>
-			<td>水谷 兆🔰</td>
-			<td>&nbsp;</td>
-			<td>[JBUG] backlogのスターを300万回押してみた</td>
-		</tr>
-		<tr>
-			<td>antimon2<br/>（後藤 俊介）</td>
-			<td>JuliaTokai</td>
-			<td>JuliaTokaiとしてはこれが最後かもしれない(仮)</td>
-		</tr>
-		<tr>
-			<td>浅井雅己</td>
-			<td>デラなごや.dev</td>
-			<td>あれから1年。デラなごや.jsは今</td>
-		</tr>
-		<tr>
-			<td>手島</td>
-			<td>Nagoya Frontend User Group</td>
-			<td>Nagoya Frontend User Groupの紹介（私ここでエンジニアになりました）</td>
-		</tr>
-		<tr>
-			<td>corocn</td>
-			<td>nagara.rb</td>
-			<td>nagara.rb の紹介</td>
-		</tr>
-		<tr>
-			<td>moco🔰</td>
-			<td>&nbsp;</td>
-			<td>デザイナーとエンジニアのコミュニケーションあるある</td>
-		</tr>
-		<tr>
-			<td>た。🔰</td>
-			<td>&nbsp;</td>
-			<td>AI時代は〇〇が再来する</td>
-		</tr>
-		<tr>
-			<td>高橋 かずひと</td>
-			<td>&nbsp;</td>
-			<td>日本株のシステムトレードに入門してみた</td>
-		</tr>
-		<tr>
-			<td>速水舜一朗🔰</td>
-			<td>&nbsp;</td>
-			<td>大学ベスト〜振り返りと2026抱負〜</td>
-		</tr>
-		<tr>
-			<td>Katz Ueno</td>
-			<td>CoderDojo</td>
-			<td>娘がアジア代表になって世界大会に出た話</td>
-		</tr>
-		<tr>
-			<td>若生大輔</td>
-			<td>&nbsp;</td>
-			<td>コーディングエージェントを極力自律的かつ長時間、人間の介入なしに動かして、無料塾の出欠管理システムを作ってみた</td>
-		</tr>
-		<tr>
-			<td>和夏🔰</td>
-			<td>&nbsp;</td>
-			<td>スーパーカブ110はいいぞ</td>
-		</tr>
-		<tr>
-			<td>misoji_engineer🔰</td>
-			<td>&nbsp;</td>
-			<td>Zephyr RTOSに関する発表をOpen Source Summit Japan 2025で行った件</td>
-		</tr>
-		<tr>
-			<td>girigiribauer</td>
-			<td>&nbsp;</td>
-			<td>移動は善</td>
-		</tr>
-		<tr>
-			<td>2bo</td>
-			<td>&nbsp;</td>
-			<td>おっきなガジェットの回線事情</td>
-		</tr>
-		<tr>
-			<td>Daichi🔰</td>
-			<td>&nbsp;</td>
-			<td>AIは合成関数、そして魂はWeightsに宿る！</td>
-		</tr>
-		<tr>
-			<td>橋本雅彦🔰</td>
-			<td>オープンソースカンファレンス Nagoya</td>
-			<td>オープンソースカンファレンスNagoyaへのご案内</td>
-		</tr>
-		<tr>
-			<td>みらる🔰</td>
-			<td>&nbsp;</td>
-			<td>FigmaでできてCSSでできないことを調べてみた！</td>
-		</tr>
-		<tr>
-			<td>土田哲哉🔰</td>
-			<td>トウカイリサーチ</td>
-			<td>トウカイリサーチに入ってみて</td>
-		</tr>
-		<tr>
-			<td>KMiura</td>
-			<td>JAWS UG名古屋 & クラウドネイティブ会議</td>
-			<td>JAWS UG名古屋2025年のアップデート・クラウドネイティブ会議が始まるよ</td>
-		</tr>
-	</tbody>
+  <tr>
+    <th>枠</th>
+    <th>開始</th>
+    <th>終了</th>
+    <th>スピーカ</th>
+    <th>タイトル</th>
+  </tr>
+  <tr>
+    <th>受付</th>
+    <td>12:00</td>
+    <td>12:30</td>
+    <td rowspan="1" colspan="2"></td>
+  </tr>
+  <tr>
+    <th>オープニング</th>
+    <td>12:30</td>
+    <td>12:37</td>
+    <td>usakotail</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th rowspan="7" colspan="1">#1</th>
+    <td>12:37</td>
+    <td>12:44</td>
+    <td>鯱.py / 果糖　Kato</td>
+    <td>鯱.pyはいいぞ#2</td>
+  </tr>
+  <tr>
+    <td>12:44</td>
+    <td>12:51</td>
+    <td>ゆいな</td>
+    <td>どこかのダム</td>
+  </tr>
+  <tr>
+    <td>12:51</td>
+    <td>12:58</td>
+    <td>デラなごや.dev / 浅井雅己</td>
+    <td>あれから1年。デラなごや.jsは今</td>
+  </tr>
+  <tr>
+    <td>12:58</td>
+    <td>13:05</td>
+    <td>Haochen Kotoi-Xie</td>
+    <td>OCaml 5でモダンな並列プログラミングをEnjoyしよう!</td>
+  </tr>
+  <tr>
+    <td>13:05</td>
+    <td>13:12</td>
+    <td>生成原論 / 飯田祐生🔰</td>
+    <td>AIもくもく会を、新たに立ち上げた話</td>
+  </tr>
+  <tr>
+    <td>13:12</td>
+    <td>13:19</td>
+    <td>水谷 兆🔰</td>
+    <td>[JBUG] backlogのスターを300万回押してみた</td>
+  </tr>
+  <tr>
+    <td>13:19</td>
+    <td>13:26</td>
+    <td>株式会社SmartHR / ex_SOUL</td>
+    <td>SmartHRについて紹介します！</td>
+  </tr>
+  <tr>
+    <th>休憩</th>
+    <td>13:26</td>
+    <td>13:41</td>
+    <td rowspan="1" colspan="2"></td>
+  </tr>
+  <tr>
+    <th rowspan="7" colspan="1">#2</th>
+    <td>13:41</td>
+    <td>13:48</td>
+    <td>東海医療DX研究会 / 小林慎治🔰</td>
+    <td>東海医療DX研究会はじめました</td>
+  </tr>
+  <tr>
+    <td>13:48</td>
+    <td>13:55</td>
+    <td>girigiribauer</td>
+    <td>移動は善</td>
+  </tr>
+  <tr>
+    <td>13:55</td>
+    <td>14:02</td>
+    <td>俺の勉強会 / wabi🔰</td>
+    <td>俺の勉強会 のご紹介</td>
+  </tr>
+  <tr>
+    <td>14:02</td>
+    <td>14:09</td>
+    <td>みらる🔰</td>
+    <td>FigmaでできてCSSでできないことを調べてみた！</td>
+  </tr>
+  <tr>
+    <td>14:09</td>
+    <td>14:16</td>
+    <td>オープンソースカンファレンス Nagoya /<br/>橋本雅彦🔰</td>
+    <td>オープンソースカンファレンスNagoyaへのご案内</td>
+  </tr>
+  <tr>
+    <td>14:16</td>
+    <td>14:23</td>
+    <td>高橋 かずひと</td>
+    <td>日本株のシステムトレードに入門してみた</td>
+  </tr>
+  <tr>
+    <td>14:23</td>
+    <td>14:30</td>
+    <td>株式会社LeanerTechnologies /<br/>香村貴之🔰</td>
+    <td>""称賛""が飛び交うリーナーの文化について話したい</td>
+  </tr>
+  <tr>
+    <th>休憩</th>
+    <td>14:30</td>
+    <td>14:45</td>
+    <td rowspan="1" colspan="2"></td>
+  </tr>
+  <tr>
+    <th rowspan="7" colspan="1">#3</th>
+    <td>14:45</td>
+    <td>14:52</td>
+    <td>JuliaTokai / antimon2（後藤 俊介）</td>
+    <td>JuliaTokaiとしてはこれが最後かもしれない(仮)</td>
+  </tr>
+  <tr>
+    <td>14:52</td>
+    <td>14:59</td>
+    <td>速水舜一朗🔰</td>
+    <td>大学ベスト〜振り返りと2026抱負〜</td>
+  </tr>
+  <tr>
+    <td>14:59</td>
+    <td>15:06</td>
+    <td>JAWS UG名古屋 &amp;<br/>クラウドネイティブ会議 /<br/>KMiura</td>
+    <td>JAWS UG名古屋2025年のアップデート・クラウドネイティブ会議が始まるよ</td>
+  </tr>
+  <tr>
+    <td>15:06</td>
+    <td>15:13</td>
+    <td>た。🔰</td>
+    <td>AI時代は〇〇が再来する</td>
+  </tr>
+  <tr>
+    <td>15:13</td>
+    <td>15:20</td>
+    <td>nagara.rb / corocn</td>
+    <td>nagara.rb の紹介</td>
+  </tr>
+  <tr>
+    <td>15:20</td>
+    <td>15:27</td>
+    <td>Daichi🔰</td>
+    <td>AIは合成関数、そして魂はWeightsに宿る！</td>
+  </tr>
+  <tr>
+    <td>15:27</td>
+    <td>15:34</td>
+    <td>クラスメソッド株式会社 / 入井 啓太</td>
+    <td>ここがヘンだよクラスメソッド</td>
+  </tr>
+  <tr>
+    <th>休憩</th>
+    <td>15:34</td>
+    <td>15:49</td>
+    <td rowspan="1" colspan="2">～📻️みんなでラジオ体操🤸～</td>
+  </tr>
+  <tr>
+    <th rowspan="8" colspan="1">#4</th>
+    <td>15:49</td>
+    <td>15:56</td>
+    <td>piyopiyo.ex / nako🔰</td>
+    <td>Elixirコミュニティpiyopiyo.ex紹介</td>
+  </tr>
+  <tr>
+    <td>15:56</td>
+    <td>16:03</td>
+    <td>和夏🔰</td>
+    <td>スーパーカブ110はいいぞ</td>
+  </tr>
+  <tr>
+    <td>16:03</td>
+    <td>16:10</td>
+    <td>JBUG名古屋 / 塩谷俊介</td>
+    <td>そのプロジェクトうまく回ってる？JBUG名古屋活動報告</td>
+  </tr>
+  <tr>
+    <td>16:10</td>
+    <td>16:17</td>
+    <td>若生大輔</td>
+    <td>人間の介入ミニマムで無料塾の出欠管理WEBアプリを作ってみた</td>
+  </tr>
+  <tr>
+    <td>16:17</td>
+    <td>16:24</td>
+    <td>機械学習名古屋 / cohama</td>
+    <td>LLM の賢さについて (仮)</td>
+  </tr>
+  <tr>
+    <td>16:24</td>
+    <td>16:31</td>
+    <td>moco🔰</td>
+    <td>デザイナーとエンジニアのコミュニケーションあるある</td>
+  </tr>
+  <tr>
+    <td>16:31</td>
+    <td>16:38</td>
+    <td>Nagoya Frontend User Group /<br/>手島</td>
+    <td>Nagoya Frontend User Groupの紹介（私ここでエンジニアになりました）</td>
+  </tr>
+  <tr>
+    <td>16:38</td>
+    <td>16:45</td>
+    <td>有限会社来栖川電算 / 山口陽平</td>
+    <td>AI コーチングでプログラミング研修を UPDATE！</td>
+  </tr>
+  <tr>
+    <th>休憩</th>
+    <td>16:45</td>
+    <td>17:00</td>
+    <td rowspan="1" colspan="2"></td>
+  </tr>
+  <tr>
+    <th rowspan="7" colspan="1">#5</th>
+    <td>17:00</td>
+    <td>17:07</td>
+    <td>CoderDojo / Katz Ueno</td>
+    <td>娘がアジア代表になって世界大会に出た話</td>
+  </tr>
+  <tr>
+    <td>17:07</td>
+    <td>17:14</td>
+    <td>misoji_engineer🔰</td>
+    <td>Zephyr RTOSに関する発表をOpen Source Summit Japan 2025で行った件</td>
+  </tr>
+  <tr>
+    <td>17:14</td>
+    <td>17:21</td>
+    <td>フロントエンドカンファレンス名古屋 /<br/>Yuma Satake</td>
+    <td>フロカンが名古屋にもやってきた！</td>
+  </tr>
+  <tr>
+    <td>17:21</td>
+    <td>17:28</td>
+    <td>squld</td>
+    <td>Visual Studio Code 拡張 Markdown Copilot を改良した話</td>
+  </tr>
+  <tr>
+    <td>17:28</td>
+    <td>17:35</td>
+    <td>トウカイリサーチ / 土田哲哉🔰</td>
+    <td>トウカイリサーチに入ってみて</td>
+  </tr>
+  <tr>
+    <td>17:35</td>
+    <td>17:42</td>
+    <td>2bo</td>
+    <td>おっきなガジェットの回線事情</td>
+  </tr>
+  <tr>
+    <td>17:42</td>
+    <td>17:49</td>
+    <td>合同会社コトイコンサルタンシー /<br/>Haochen Kotoi-Xie</td>
+    <td>KXCのご紹介</td>
+  </tr>
+  <tr>
+    <th>スポンサーピッチ</th>
+    <td>17:49</td>
+    <td>17:53</td>
+    <td>株式会社エイチームホールディングス<br/>株式会社SmartHR<br/>株式会社LeanerTechnologies<br/>クラスメソッド株式会社<br/>有限会社来栖川電算<br/>合同会社コトイコンサルタンシー</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>クロージング</th>
+    <td>17:53</td>
+    <td>18:00</td>
+    <td>H.Hiro</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th rowspan="2" colspan="1">懇親会</th>
+    <td>18:00</td>
+    <td>20:00</td>
+    <td rowspan="1" colspan="2">懇親会</td>
+  </tr>
+  <tr>
+    <td>20:00</td>
+    <td>21:00</td>
+    <td rowspan="1" colspan="2">撤収</td>
+  </tr>
 </table>
 
 
@@ -275,38 +461,10 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 <tr>
 <td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/raspberrypi.png"/><br/><a href="https://www.raspi.jp/">Japanese Raspberry Pi Users Group</a></td>
 <td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/cloudnative-kaigi_512.png"/><br/>クラウドネイティブ会議</td>
-<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://tokai-research.connpass.com/">トウカイリサーチ</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/toukai_research.png.png"/><br/><a href="https://tokai-research.connpass.com/">トウカイリサーチ</a></td>
 </tr>
 </table>
 
-# ⏰️ タイムテーブル（多少前後する可能性があります）
-<table>
-<tr>
-<td align="center" style="padding: 12px;"><br/>内容</td>
-<td align="center" style="padding: 12px;"><br/>開始</td>
-<td align="center" style="padding: 12px;"><br/>終了</td>
-</tr>
-<tr>
-<td align="center" style="padding: 12px;"><br/>昼の部受付</td>
-<td align="center" style="padding: 12px;"><br/>12:00</td>
-<td align="center" style="padding: 12px;"><br/>12:30</td>
-</tr>
-<tr>
-<td align="center" style="padding: 12px;"><br/>昼の部オープニング</td>
-<td align="center" style="padding: 12px;"><br/>12:30</td>
-<td align="center" style="padding: 12px;"><br/>12:45</td>
-</tr>
-<tr>
-<td align="center" style="padding: 12px;"><br/>昼の部本会</td>
-<td align="center" style="padding: 12px;"><br/>12:45</td>
-<td align="center" style="padding: 12px;"><br/>18:00</td>
-</tr>
-<tr>
-<td align="center" style="padding: 12px;"><br/>夜の部</td>
-<td align="center" style="padding: 12px;"><br/>18:00</td>
-<td align="center" style="padding: 12px;"><br/>21:00</td>
-</tr>
-</table>
 
 
 # 📢 各種募集
@@ -322,12 +480,12 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 <tr>
 <td align="center" style="padding: 12px;"><br/>一般LT発表</td>
 <td align="center" style="padding: 12px;"><br/>締め切りました</td>
-<td align="center" style="padding: 12px;"><br/>2026/11/28</td>
+<td align="center" style="padding: 12px;"><br/><del>2026/11/28</del></td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>コミュニティ参加</td>
 <td align="center" style="padding: 12px;"><br/>締め切りました</td>
-<td align="center" style="padding: 12px;"><br/>2025/11/28</td>
+<td align="center" style="padding: 12px;"><br/><del>2025/11/28</del></td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>企業スポンサー/会場提供</td>
@@ -342,17 +500,17 @@ NGKは、そんな自由であたたかい雰囲気の中で人と人とのつ�
 <tr>
 <td align="center" style="padding: 12px;"><br/>企業スポンサー/Silver</td>
 <td align="center" style="padding: 12px;"><br/>締め切りました</td>
-<td align="center" style="padding: 12px;"><br/>2025/11/28</td>
+<td align="center" style="padding: 12px;"><br/><del>2025/11/28</del></td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>パトロン</td>
 <td align="center" style="padding: 12px;"><br/>締め切りました</td>
-<td align="center" style="padding: 12px;"><br/>2025/11/28</td>
+<td align="center" style="padding: 12px;"><br/><del>2025/11/28</del></td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>夜の部 懇親会</td>
-<td align="center" style="padding: 12px;"><br/>募集中</td>
-<td align="center" style="padding: 12px;"><br/>2026/01/16</td>
+<td align="center" style="padding: 12px;"><br/>締め切りました</td>
+<td align="center" style="padding: 12px;"><br/><del>2026/01/16</del></td>
 </tr>
 </table>
 

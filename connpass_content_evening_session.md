@@ -19,17 +19,42 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 名古屋近辺の方も、遠方から雰囲気を味わいに来る方も大歓迎。昼の部のLT大会とあわせて、お気軽にご参加ください。
 
 # 📅 開催日時・場所
-- **日時**：2026年1月24日（土）12:00-21:00（時間は多少前後する可能性があります）
-- **会場**：[株式会社エイチームホールディングス 本社セミナースペース （大名古屋ビルヂング 32F）](https://www.a-tm.co.jp/about/outline/#:~:text=%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BC%E3%83%A0%E6%9C%AC%E7%A4%BE)
-    - https://maps.app.goo.gl/dix1S51bGZK44tvx8
-- **参加費**：
-    - 昼の部: 無料
-    - 夜の部: 社会人枠/事前決済 4,000円 学生枠/現地決済 1,000円
+## 日時
+* 2026年1月24日（土）
+  - 12:00: 受付開始
+  - 12:30-18:00: 昼の部
+  - 18:00-20:00: 夜の部
+  - 21:00: 完全撤収
 
+## 参加費
+ * 昼の部: 無料
+ * 夜の部: 社会人枠/事前決済 4,000円 学生枠/現地決済 1,000円
 
-### 会場へのアクセス方法 & 会場での諸注意 
+## 会場
+* [株式会社エイチームホールディングス 本社セミナースペース （大名古屋ビルヂング 32F）](https://www.a-tm.co.jp/about/outline/#:~:text=%E3%82%A8%E3%82%A4%E3%83%81%E3%83%BC%E3%83%A0%E6%9C%AC%E7%A4%BE)
+  - https://maps.app.goo.gl/dix1S51bGZK44tvx8
 
-参加申し込み後に展開予定の「参加者への情報」を必ずご確認ください。
+## 会場へのアクセス
+
+参加申し込み後に展開される「参加者への情報」をご確認ください。
+
+## 会場での諸注意
+* 必ず株式会社エイチームホールディングス様・スタッフの指示に従ってください。
+* 32F エントランス側から会場セミナースペースへは入室できません。
+* セキュリティエリアへの無断立ち入りは禁止です。
+* 会場フロアからの途中出入りは、鍵開けが必要なためなるべくお控えください。
+* セミナールーム内と廊下の自販機はご利用いただけますが、ゴミは持ち帰りをお願いします。
+* 喫煙はセミナースペース内の指定場所でお願いします。
+* 一般参加者への WiFi のご用意はありません。
+* 一般参加者への電源のご用意はございますが、数に限りがあります。譲り合ってのご利用をお願いします。
+
+## 受付方法
+
+ * 受付の混雑緩和のため、夜の部の受付は1回目の休憩の時間から開始します。
+ * 受付で[受付票](https://ngk.connpass.com/event/373524/ticket/)に記載されているQRコードをご提示ください。
+ * 昼の部受付済みの方については、夜の部での身分証確認は行いません。昼の部受付済みであることを確認するため、「名札」のご提示をお願いします。
+ * 【学生参加者向け】学生証の確認を行いますので、学生証を忘れずにお持ちください。
+
 
 
 # 🎫 参加方法
@@ -91,7 +116,7 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 皆様ご協力をお願いいたします。
 
 
-# ⏰ タイムテーブル（多少前後する可能性があります）
+# ⏰ タイムテーブル
 
 <table>
 <tr>
@@ -99,19 +124,15 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 <td align="center" style="padding: 12px;"><br/>開始</td>
 <td align="center" style="padding: 12px;"><br/>終了</td>
 </tr>
-<tr>
-<td align="center" style="padding: 12px;"><br/>設営（参加任意）</td>
-<td align="center" style="padding: 12px;"><br/>18:00</td>
-<td align="center" style="padding: 12px;"><br/>18:30</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>懇親会</td>
-<td align="center" style="padding: 12px;"><br/>18:30</td>
-<td align="center" style="padding: 12px;"><br/>20:30</td>
+<td align="center" style="padding: 12px;"><br/>18:00</td>
+<td align="center" style="padding: 12px;"><br/>20:00</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>撤収（参加任意）</td>
-<td align="center" style="padding: 12px;"><br/>20:30</td>
+<td align="center" style="padding: 12px;"><br/>20:00</td>
 <td align="center" style="padding: 12px;"><br/>21:00</td>
 </tr>
 </table>
@@ -194,7 +215,7 @@ NGKの始まりは十数年前、小さなコミュニティ同士が「せっ�
 <tr>
 <td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/raspberrypi.png"/><br/><a href="https://www.raspi.jp/">Japanese Raspberry Pi Users Group</a></td>
 <td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/cloudnative-kaigi_512.png"/><br/>クラウドネイティブ会議</td>
-<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/empty.png"/><br/><a href="https://tokai-research.connpass.com/">トウカイリサーチ</a></td>
+<td align="center" style="padding: 9px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/community/toukai_research.png.png"/><br/><a href="https://tokai-research.connpass.com/">トウカイリサーチ</a></td>
 </tr>
 </table>
 
