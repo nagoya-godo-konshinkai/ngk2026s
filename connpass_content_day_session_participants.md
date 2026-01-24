@@ -13,3 +13,9 @@
 （2026.1.22更新）入館方法については以下をご確認ください。
 
 <img src="https://nagoya-godo-konshinkai.github.io/ngk2026s/img/other/NGK2026S-entrance-route.png" />
+
+# NGK2026S 配信視聴URL のご案内
+
+以下の URL で Youtube Live 配信を実施しております。
+
+[https://www.youtube.com/watch?v=3VYHyrQYBjI](https://www.youtube.com/watch?v=3VYHyrQYBjI)
